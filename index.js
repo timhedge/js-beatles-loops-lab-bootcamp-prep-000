@@ -23,8 +23,6 @@ function iLoveTheBeatles(num) {
   var n = num;
   do {
     ilb.push("I love the Beatles!");
-    if (n < 15);
-    
     n++;
   }
 }

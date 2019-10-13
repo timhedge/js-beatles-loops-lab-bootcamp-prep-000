@@ -18,4 +18,10 @@ function johnLennonFacts(jlfacts) {
   return jlfex
 }
 
-function iLoveTheBeatles(num)
+function iLoveTheBeatles(num) {
+  var ilb = [];
+  var n = 0;
+  do {
+    
+  }
+}

@@ -20,8 +20,10 @@ function johnLennonFacts(jlfacts) {
 
 function iLoveTheBeatles(num) {
   var ilb = [];
-  var n = 0;
+  var n = num;
   do {
-    
+    ilb.push("I love the Beatles!");
+    if (n < 15)
+    n++;
   }
 }
